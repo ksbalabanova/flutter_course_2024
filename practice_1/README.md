@@ -1,1 +1,3 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+APi: Weather API
+Ссылка для получения регистрации и получания ключа: https://www.weatherapi.com/
+На данный момент выполнен только 1 уровень
