@@ -7,7 +7,7 @@ import 'package:practice_1/features/core/presentation/app.dart';
 
 const String version = '0.0.1';
 const String url = 'http://api.weatherapi.com/v1';
-const String apiKey = '2229532b41f242019ae140124240610';
+const String apiKey = '%';
 
 void main(List<String> arguments) {
   var app = App(WeatherRepositoryDebug());
