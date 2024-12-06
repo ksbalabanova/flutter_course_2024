@@ -33,7 +33,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
   Map<String, dynamic>? _weatherData;
 
   Future<void> fetchWeather(String city) async {
-    const String apiKey = 'b38343258f7d4530947191959242111';
+    const String apiKey = '';
     final String url =
         'http://api.weatherapi.com/v1/current.json?key=$apiKey&q=$city&aqi=no';
 
